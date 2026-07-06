@@ -1,0 +1,14 @@
+**/node_modules/
+**/dist/
+**/target/
+**/.claude
+**/.VSCodeCounter
+
+### IntelliJ IDEA ###
+.idea
+
+### VS Code ###
+.vscode/
+
+### 敏感配置文件（密码、密钥等）
+**/application-secret.yml
